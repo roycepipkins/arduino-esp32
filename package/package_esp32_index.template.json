@@ -84,10 +84,10 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://dl.espressif.com/dl/esptool-a420774-windows.zip",
+              "url": "https://github.com/roycepipkins/arduino-esp32/blob/master/tools/esptool-a420774-windows.zip?raw=true",
               "archiveFileName": "esptool-a420774-windows.zip",
-              "checksum": "SHA-256:7778545baa30a85a37a956e47e42a236fa67227f21b160b2164ef83a5e20a41f",
-              "size": "3394137"
+              "checksum": "SHA-256:aefb6322fb77232f509f1cbedf0d22302039a0b6512d96051f5528c6a9b3d7a8",
+              "size": "3389290"
             },
             {
               "host": "x86_64-apple-darwin",
